@@ -9,13 +9,6 @@ body
   overflow-x:hidden;
 }
 
-:root
-{
-  --smallscreenfontsize = 
-}
-a{
-  
-}
 #myVideo {
     position:fixed;
     z-index: -1;
